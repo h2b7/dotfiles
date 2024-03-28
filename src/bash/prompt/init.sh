@@ -13,3 +13,5 @@
 
 
 # export PS1="$_NEW_PROMPT "
+
+PROMPT_DIRTRIM=3
